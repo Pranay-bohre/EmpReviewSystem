@@ -7,7 +7,7 @@
     "start": "node index.js",
     "dev":"nodemon index.js"
   },
-  "author": "Rajeev Kumar Sharma",
+  "author": "Pranay Bohre",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
